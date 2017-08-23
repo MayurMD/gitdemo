@@ -1,1 +1,4 @@
 add a new file. And modifiy this line for master.Also add a new line for git fetch.Also demo git push to new line.
+add a new file
+add line for first branch
+add a new line for first branch for git push.
